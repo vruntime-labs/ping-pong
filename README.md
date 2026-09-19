@@ -34,3 +34,38 @@ Clone this repository to your local machine:
 ```bash
 git clone [https://github.com/YOUR-GITHUB-USERNAME/ping-pong-game.git](https://github.com/YOUR-GITHUB-USERNAME/ping-pong-game.git)
 cd ping-pong-game
+
+Open index.html in any web browser to play immediately.
+
+2. Deploy to GitHub Pages
+Push your repository to GitHub.
+
+Go to Settings > Pages.
+
+Under Branch, select main (or master) and click Save.
+
+Your game will be live at https://YOUR-GITHUB-USERNAME.github.io/ping-pong-game/.
+
+🎮 How to Play
+Left Paddle: Press W (Up) and S (Down) or Up Arrow / Down Arrow.
+
+Right Paddle: Automated AI opponent.
+
+Objective: Prevent the ball from passing your paddle. First to score wins bragging rights!
+
+📄 License
+This project is open-source and licensed under the MIT License.
+
+!
+
+📄 License
+This project is open-source and licensed under the MIT License.
+
+🔗 Connect With Me
+GitHub: @YOUR-GITHUB-USERNAME
+
+Instagram: @YOUR-INSTAGRAM-HANDLE
+
+
+
+
