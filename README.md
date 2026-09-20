@@ -13,7 +13,7 @@
 
 A classic, lightweight 2D Ping Pong game designed for web browsers. Built using **vanilla JavaScript** and **HTML5 Canvas** with zero external dependencies. Features smooth paddle controls, custom collision mechanics, dynamic score tracking, and an automated AI opponent.
 
-🎮 **[Click Here to Play the Live Demo](https://YOUR-GITHUB-USERNAME.github.io/ping-pong-game/)**
+🎮 **[Click Here to Play the Live Demo](https://vruntime-labs.github.io/ping-pong/)**
 
 ---
 
