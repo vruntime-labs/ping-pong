@@ -17,6 +17,16 @@ A classic, lightweight 2D Ping Pong game designed for web browsers. Built using 
 
 ---
 
+## 🌐 Community & Social Links
+
+Connect with VRuntime Labs across our community platforms:
+
+* 🐙 **GitHub:** [github.com/vruntime-labs](https://github.com/vruntime-labs)
+* 📸 **Instagram:** [instagram.com/vruntimelabs](https://www.instagram.com/vruntimelabs/)
+* 🎥 **YouTube:** [youtube.com/@vruntimelabs](https://www.youtube.com/@vruntimelabs)
+
+---
+
 ## 🌟 Key Features
 
 * **Zero Dependencies:** Pure vanilla JavaScript and HTML5 Canvas implementation.
@@ -34,15 +44,3 @@ Clone this repository to your local machine:
 ```bash
 git clone [https://github.com/vruntime-labs/ping-pong.git](https://github.com/vruntime-labs/ping-pong.git)
 cd ping-pong
-
----
-
-## 🔗 Connect With Me
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vruntime-labs)
-[![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vruntimelabs/)
-[![YouTube Profile](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vruntimelabs)
-
-* **GitHub:** [@vruntime-labs](https://github.com/vruntime-labs)
-* **Instagram:** [@vruntimelabs](https://www.instagram.com/vruntimelabs/)
-* **YouTube:** [@vruntimelabs](https://www.youtube.com/@vruntimelabs)
