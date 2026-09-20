@@ -4,13 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <title>Play 2D Ping Pong Online | VRuntime Labs</title>
-
-  <!-- OpenGraph SEO Meta Tags -->
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="Play 2D Ping Pong Online | VRuntime Labs" />
-  <meta property="og:description" content="Free 2D Ping Pong game built with JavaScript and HTML5 Canvas." />
-  <meta property="og:url" content="https://vruntime-labs.github.io/ping-pong/" />
-
   <style>
     * {
       box-sizing: border-box;
@@ -39,11 +32,12 @@
       box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
       cursor: pointer;
       max-width: 100%;
+      display: block;
     }
     .touch-controls {
       display: flex;
       gap: 20px;
-      margin-top: 12px;
+      margin-top: 15px;
     }
     .touch-btn {
       padding: 12px 28px;
@@ -72,7 +66,6 @@
   <h1>🏓 Ping Pong</h1>
   <canvas id="pong" width="600" height="400"></canvas>
 
-  <!-- Mobile Touch Controls -->
   <div class="touch-controls">
     <button class="touch-btn" id="upBtn">▲ UP</button>
     <button class="touch-btn" id="downBtn">▼ DOWN</button>
@@ -80,6 +73,6 @@
 
   <p class="instructions">Use <strong>W / S</strong> or <strong>Up / Down</strong> keys on Desktop, or buttons above on Mobile.</p>
 
-  <script src="game.js"></script>
+  <script src="./game.js"></script>
 </body>
 </html>
