@@ -32,7 +32,17 @@ function drawText(text, x, y) {
 document.addEventListener("keydown", (e) => {
   if (e.key === "w" || e.key === "ArrowUp") user.dy = -6;
   if (e.key === "s" || e.key === "ArrowDown") user.dy = 6;
-});
+})
+  // On-Screen Touch Button Listeners
+const upBtn = document.getElementById("upBtn");
+const downBtn = document.getElementById("downBtn");
+
+upBtn.addEventListener("touchstart", (e) => { e.preventDefault(); user.dy = -6; });
+upBtn.addEventListener("touchend", (e) => { e.preventDefault(); user.dy = 0; });
+
+downBtn.addEventListener("touchstart", (e) => { e.preventDefault(); user.dy = 6; });
+downBtn.addEventListener("touchend", (e) => { e.preventDefault(); user.dy = 0; });
+  ;
 
 document.addEventListener("keyup", (e) => {
   if (["w", "s", "ArrowUp", "ArrowDown"].includes(e.key)) user.dy = 0;
