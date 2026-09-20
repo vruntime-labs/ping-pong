@@ -6,7 +6,7 @@
 
 # 🏓 2D Browser Ping Pong Game
 
-[![Hosted with GitHub Pages](https://img.shields.io/badge/Hosted%20with-GitHub%20Pages-blue?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com)
+[![Hosted with GitHub Pages](https://img.shields.io/badge/Hosted%20with-GitHub%20Pages-blue?style=for-the-badge&logo=githubpages&logoColor=white)](https://vruntime-labs.github.io/ping-pong/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5 Canvas](https://img.shields.io/badge/HTML5-Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
@@ -32,40 +32,5 @@ A classic, lightweight 2D Ping Pong game designed for web browsers. Built using 
 ### 1. Run Locally
 Clone this repository to your local machine:
 ```bash
-git clone [https://github.com/YOUR-GITHUB-USERNAME/ping-pong-game.git](https://github.com/YOUR-GITHUB-USERNAME/ping-pong-game.git)
-cd ping-pong-game
-
-Open index.html in any web browser to play immediately.
-
-2. Deploy to GitHub Pages
-Push your repository to GitHub.
-
-Go to Settings > Pages.
-
-Under Branch, select main (or master) and click Save.
-
-Your game will be live at https://YOUR-GITHUB-USERNAME.github.io/ping-pong-game/.
-
-🎮 How to Play
-Left Paddle: Press W (Up) and S (Down) or Up Arrow / Down Arrow.
-
-Right Paddle: Automated AI opponent.
-
-Objective: Prevent the ball from passing your paddle. First to score wins bragging rights!
-
-📄 License
-This project is open-source and licensed under the MIT License.
-
-!
-
-📄 License
-This project is open-source and licensed under the MIT License.
-
-🔗 Connect With Me
-GitHub: @YOUR-GITHUB-USERNAME
-
-Instagram: @YOUR-INSTAGRAM-HANDLE
-
-
-
-
+git clone [https://github.com/vruntime-labs/ping-pong.git](https://github.com/vruntime-labs/ping-pong.git)
+cd ping-pong
